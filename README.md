@@ -1,8 +1,8 @@
 # Voron Stealthburner For Taz!
 
-This was a fun challenge to put a Stealthburner onto my Taz 6.
-Please be aware that none of this is perfect and you might have a few bumps along the way while building this.
-Still figuring out Github so be patient with me! :)
+This was a fun challenge to put a Stealthburner onto my Taz 6.<br>
+Please be aware that none of this is perfect and you might have a few bumps along the way while building this.<br>
+Still figuring out Github so be patient with me! :)<br><br>
 
 Printables: https://www.printables.com/model/543772-taz-56-to-stealthburner-v2
 
