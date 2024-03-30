@@ -1,4 +1,4 @@
-# Voron Stealthburner For Taz!
+# Voron Stealthburner For Taz! [Unfinished]
 
 This was a fun challenge to put a Stealthburner onto my Taz 6.<br>
 Please be aware that none of this is perfect and you might have a few bumps along the way while building this.<br>
