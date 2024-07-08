@@ -1,5 +1,3 @@
-![image](https://github.com/CharlotteBeLike/Voron-StealthBurner-Taz/assets/150643227/5016411e-1ca8-4415-bc46-f8144053997e)# Voron Stealthburner For Taz! [Unfinished]
-
 This was a fun challenge to put a Stealthburner onto my Taz 6.<br>
 Please be aware that none of this is perfect and you might have a few bumps along the way while building this.<br><br>
 
