@@ -1,7 +1,7 @@
 # Filename Nomenclature
 
-| Filename | Note |
-|----------|------|
+| Category | Item | Amount |
+|---------|-------------|--|
 | \*.stl | Base color |
 | [a]\_\*.stl | Accent color |
 | [c]\_\*.stl | Clear/Translucent (light can penetrate) |
