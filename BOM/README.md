@@ -1,7 +1,7 @@
 # BOM
 
 | Category | Item | Amount |
-|----------|-----------|----|
+|---|---|---|
 | Hardware | M3 X D5.0 X L4.0 Heat Set Insert| 22 |
 | Hardware	| M3 Spring-Loaded T-Nut | 8 |
 | Hardware	| M5 Spring-Loaded T-Nut	| 4 |
