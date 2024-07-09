@@ -1,5 +1,5 @@
 This was a fun challenge to put a Stealthburner onto my Taz 6.<br><br>
-This mod may possibly be adaptable to the Taz Workhorse, Taz pro, Taz Pro S, Taz Pro XT, Taz 5, Taz 4, Taz 3, Mini v1.04, Mini v1.03, and Kittaz :)<br>
+This mod may possibly be adaptable to the Taz Workhorse, Taz Pro, Taz Pro S, Taz Pro XT, Taz 5, Taz 4, Taz 3, Mini v1.04, Mini v1.03, and Kittaz :)<br>
 Please be aware that none of this is perfect and you might have a few bumps along the way while building this. THERE ARE NO DOCS, so you will have to use the CAD model to assemble<br><br>
 
 Printables: https://www.printables.com/model/543772-taz-56-to-stealthburner-v2<br><br>
