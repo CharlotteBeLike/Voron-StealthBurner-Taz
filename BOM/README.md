@@ -23,7 +23,7 @@
 | Hardware	| M3 Nut	| 2 |
 | Hardware	| M5x12 SHCS	| 6 |
 | Hardware	| 350mm 2020 V-Slot Extrusion	| 1 |
-| Electronics	| EMA14 36mm Round Pancake Motor with 10 tooth gear 20mm	| 1 |
+| Electronics	| NEMA14 36mm Round Pancake Motor with 10 tooth gear 20mm	| 1 |
 | Electronics	| NEMA17 Stepper Motor	| 2 |
 | Electronics	| DC 24V 5015 Centrefugal Fan	| 1 |
 | Electronics	| DC 24V 4010 Axial Fan	| 1 |
